@@ -3,7 +3,9 @@
 Run step #1 and #2 quickly in one go — Run inside local WP install E.g. /wp.local/wp-content/plugins/ directory.
 
 npx create-guten-block my-block
+
 cd my-block
+
 npm start
 
 Below you will find some information on how to run scripts.
